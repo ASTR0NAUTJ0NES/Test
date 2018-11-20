@@ -20,4 +20,4 @@
 ## Change Log 
 	- This is a single iteration. 
 
-ITEC 109 - week 14 - assigment 5
+ITEC 109 - week 14 - assignment 5
