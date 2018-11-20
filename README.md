@@ -1,7 +1,7 @@
 # VotingMachine
 
 ## Description 
-	- Simple Java Program which prints out a multiplication table to the console.
+	- Simple Java Program which prints voting results based on the data passed in.
 ## Version 
 	- 1.0
 ## Author 
