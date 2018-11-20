@@ -1,4 +1,4 @@
-# MultTable
+# VotingMachine
 
 ## Description 
 	- Simple Java Program which prints out a multiplication table to the console.
